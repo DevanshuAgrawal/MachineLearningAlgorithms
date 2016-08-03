@@ -1,3 +1,6 @@
+# Hopfield Network
+# Devanshu Agrawal
+
 from __future__ import division
 from pylab import randint
 import numpy as np

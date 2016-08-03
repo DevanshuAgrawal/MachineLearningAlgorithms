@@ -1,3 +1,6 @@
+# Decision Tree
+# Devanshu Agrawal
+
 from __future__ import division
 import numpy as np
 import networkx as nx
